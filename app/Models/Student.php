@@ -16,6 +16,5 @@ class Student extends Model
         'email',
         'age',
         'admission_date',
-
     ];
 }
